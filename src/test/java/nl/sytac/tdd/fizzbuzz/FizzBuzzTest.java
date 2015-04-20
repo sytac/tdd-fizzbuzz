@@ -1,4 +1,4 @@
-package nl.sytac.tdd;
+package nl.sytac.tdd.fizzbuzz;
 
 public class FizzBuzzTest {
 
